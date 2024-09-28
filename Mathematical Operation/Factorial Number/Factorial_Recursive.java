@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FactorialRecursive {
+public class Factorial_Recursive {
     // Recursive method to calculate factorial
     public static long factorial(int n) {
         if (n == 0 || n == 1) {
